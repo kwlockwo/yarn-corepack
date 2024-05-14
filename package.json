@@ -1,0 +1,4 @@
+{
+  "name": "yarn-corepack",
+  "packageManager": "yarn@4.2.2"
+}
