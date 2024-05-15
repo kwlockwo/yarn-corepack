@@ -1,4 +1,9 @@
 {
+  "private": true,
   "name": "yarn-corepack",
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.2.2",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ]
 }
